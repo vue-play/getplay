@@ -21,8 +21,8 @@ cli.command('*', 'Integrate vue-play into your project', () => {
     console.log(`${chalk.cyan('>')} Updating npm scripts`)
     yield updateScripts()
 
-    console.log(`${chalk.cyan('>')} Installing vue-play`)
-    yield install(['vue-play'], { dev: true, stdio: 'pipe' })
+    console.log(`${chalk.cyan('>')} Installing vue-play and vbuild (a minute or less, please be patient)`)
+    yield install(['vue-play', 'vbuild'], { dev: true, stdio: 'pipe' })
 
     console.log(chalk.bold('\n  To run vue-play app:'))
     console.log('\n  yarn play\n')
