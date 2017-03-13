@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "The simplest way to use vue-play in your project",
   "repository": {
-    "url": "egoist/getplay",
+    "url": "vue-play/getplay",
     "type": "git"
   },
   "files": [

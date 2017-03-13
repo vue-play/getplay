@@ -1,6 +1,6 @@
 # getplay
 
-[![NPM version](https://img.shields.io/npm/v/getplay.svg?style=flat)](https://npmjs.com/package/getplay) [![NPM downloads](https://img.shields.io/npm/dm/getplay.svg?style=flat)](https://npmjs.com/package/getplay) [![Build Status](https://img.shields.io/circleci/project/egoist/getplay/master.svg?style=flat)](https://circleci.com/gh/egoist/getplay) [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate)
+[![NPM version](https://img.shields.io/npm/v/getplay.svg?style=flat)](https://npmjs.com/package/getplay) [![NPM downloads](https://img.shields.io/npm/dm/getplay.svg?style=flat)](https://npmjs.com/package/getplay) [![Build Status](https://img.shields.io/circleci/project/vue-play/get-play/master.svg?style=flat)](https://circleci.com/gh/vue-play/get-play) [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate)
 
 > The simplest way to integrate [vue-play](https://github.com/vue-play/vue-play) into your project
 
@@ -30,6 +30,6 @@ getplay
 ## Author
 
 **getplay** © [egoist](https://github.com/egoist), Released under the [MIT](./LICENSE) License.<br>
-Authored and maintained by egoist with help from contributors ([list](https://github.com/egoist/getplay/contributors)).
+Authored and maintained by egoist with help from contributors ([list](https://github.com/vue-play/get-play/contributors)).
 
 > [egoistian.com](https://egoistian.com) · GitHub [@egoist](https://github.com/egoist) · Twitter [@rem_rin_rin](https://twitter.com/rem_rin_rin)
