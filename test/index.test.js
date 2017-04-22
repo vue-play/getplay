@@ -32,7 +32,7 @@ test('updateScripts', () => {
       const pkg = require('./fixture/package')
 
       expect(pkg.scripts.test).toBe('echo lol')
-      expect(pkg.scripts.play).toBe('vbuild -c play.config.js -d')
-      expect(pkg.scripts['build:play']).toBe('vbuild -c play.config.js')
+      expect(pkg.scripts.play).toBe('vbuild dev --config play.config.js')
+      expect(pkg.scripts['build:play']).toBe('vbuild --config play.config.js')
     })
 })
