@@ -22,7 +22,7 @@ cli.command('*', 'Integrate vue-play into your project', () => {
     yield updateScripts()
 
     console.log(`${chalk.cyan('>')} Installing vue-play and vbuild (a minute or less, please be patient)`)
-    yield install(['vue-play', 'vbuild'], { dev: true, stdio: 'pipe' })
+    yield install(['vue-play', 'vbuild@^7.1.0'], { dev: true, stdio: 'pipe' })
 
     console.log(chalk.bold('\n  To run vue-play app:'))
     console.log('\n  yarn play\n')
