@@ -1,6 +1,6 @@
 {
   "name": "getplay",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "The simplest way to use vue-play in your project",
   "repository": {
     "url": "vue-play/getplay",
